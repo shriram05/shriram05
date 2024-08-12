@@ -22,4 +22,4 @@
 ###
 
 <h1 align="left">LeetCode Stats</h1>
-![](https://leetcard.jacoblin.cool/shriram_05?font=poppins&border_radius=8)
+![](https://leetcard.jacoblin.cool/shriram_05?font=Dancing_Script&border_radius=8)
