@@ -2,7 +2,7 @@
 
 ###
 
-<h6 align="left">Hi, Iam Shriram Kumar. A final year computer science and engineering student at Rajalakshmi Engineering College. Iam a DSA enthusiast with familiarity in front-end and back-end technologies dedicated in bringing innovative and feasible solutions to the team. Interested to learn and grow in a collaborative environment.</h6>
+<p align="left">Hi, Iam Shriram Kumar. A final year computer science and engineering student at Rajalakshmi Engineering College. Iam a DSA enthusiast with familiarity in front-end and back-end technologies dedicated in bringing innovative and feasible solutions to the team. Interested to learn and grow in a collaborative environment.</p>
 
 ###
 
