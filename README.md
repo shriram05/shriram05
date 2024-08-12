@@ -20,3 +20,6 @@
 </div>
 
 ###
+
+<h1 align="left">LeetCode Stats</h1>
+![](https://leetcard.jacoblin.cool/shriram_05?border_radius=8)
