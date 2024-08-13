@@ -20,5 +20,3 @@
 
 ###
 
-## 🏆 Leetcode Stats
-![](https://leetcard.jacoblin.cool/shriram_05?border_radius=8)
