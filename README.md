@@ -2,9 +2,7 @@
 
 ###
 
-<p align="left">Hi, Iam Shriram Kumar.As an enthusiastic computer science student, I am deeply interested in full-stack web development and 
-competitive programming. Eager to expand my knowledge in emerging technologies, I bring proven collaborative skills 
-to team settings, with a keen interest in staying up-to-date on the latest developments. .</p>
+<p align="left">Hi, Iam Shriram Kumar.As an enthusiastic computer science student, I am deeply interested in full-stack web development and competitive programming. Eager to expand my knowledge in emerging technologies, I bring proven collaborative skills to team settings, with a keen interest in staying up-to-date on the latest developments. .</p>
 
 ###
 
