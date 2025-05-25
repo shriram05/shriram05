@@ -13,9 +13,6 @@
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=shriram05&show_icons=true&theme=radical&hide_border=false&rank_icon=github&custom_title=Shriram's+GitHub+Stats" height="200" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=shriram05&theme=radical&hide_border=false&border_radius=5" height="200" alt="GitHub Streak" />
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=your_wakatime_username&theme=radical" />
-
-
 </div>
 
 <div>
