@@ -1,11 +1,12 @@
 <h1 align="left">About me</h1>
 
-###
+### About Me
 
-<p align="left">Hi, Iam Shriram Kumar.As an enthusiastic computer science student, I am deeply interested in full-stack web development and competitive programming. Eager to expand my knowledge in emerging technologies, I bring proven collaborative skills to team settings, with a keen interest in staying up-to-date on the latest developments. .</p>
+Hi, I’m **Shriram Kumar** — a motivated Computer Science student with hands-on experience in **full-stack web development**, **competitive programming**, and cutting-edge fields like **Artificial Intelligence** and **Generative AI**. 
 
-###
- 
+I enjoy building scalable and efficient web applications, solving complex algorithmic challenges, and exploring innovative AI technologies to create impactful solutions. 
+
+I thrive in collaborative environments and continuously seek to expand my skill set while staying up-to-date with the latest advancements in technology.
 
 
 <h1>📊 GitHub Stats & Activity</h1>
