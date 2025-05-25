@@ -15,8 +15,6 @@
   <img src="https://streak-stats.demolab.com?user=shriram05&theme=radical&hide_border=false&border_radius=5" height="200" alt="GitHub Streak" />
 </div>
 
-<br/>
-
 <div>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shriram05&theme=react-dark&area=true&hide_border=false&radius=16" height="300" alt="Contribution Graph" />
 </div>
