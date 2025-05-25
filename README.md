@@ -17,8 +17,3 @@ I thrive in collaborative environments and continuously seek to expand my skill 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shriram05&theme=react-dark&area=true&hide_border=false&radius=16" height="300" alt="Contribution Graph" />
 </div>
 
-<br/>
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shriram05&layout=compact&theme=radical&hide_border=false" height="150" alt="Top Languages" />
-</div>
