@@ -16,7 +16,6 @@ I thrive in collaborative environments and continuously seek to expand my skill 
   <img src="https://streak-stats.demolab.com?user=shriram05&theme=radical&hide_border=false&border_radius=5" height="200" alt="Shriram's GitHub Streak" />
 </div>
 
-<br/>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shriram05&theme=react-dark&area=true&hide_border=false&radius=16&custom_title=Shriram's+Contribution+Graph" height="300" alt="Shriram's Contribution Graph" />
