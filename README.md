@@ -11,8 +11,7 @@ I thrive in collaborative environments and continuously seek to expand my skill 
 <h1>📊 GitHub Stats & Activity</h1>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shriram05&show_icons=true&theme=radical&hide_border=false&rank_icon=github&custom_title=Shriram's+GitHub+Stats&cache_seconds=86400" height="200" alt="Shriram's GitHub Stats" />
-  
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=shriram05&show_icons=true&theme=radical&hide_border=false&rank_icon=github&custom_title=Shriram's+GitHub+Stats&cache_seconds=86400" height="200" alt="Shriram's GitHub Stats" /> -->
   <img src="https://streak-stats.demolab.com?user=shriram05&theme=radical&hide_border=false&border_radius=5" height="200" alt="Shriram's GitHub Streak" />
 </div>
 
