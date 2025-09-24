@@ -1,6 +1,6 @@
 <h1 align="left">About me</h1>
 
-Hi, I’m **Shriram Kumar** 👋 — a motivated Computer Science student with hands-on experience in **full-stack web development**, **competitive programming**, and cutting-edge fields like **Artificial Intelligence** and **Generative AI**.
+Hi, I’m **Shriram Kumar** 👋 — a motivated Computer Science graduate with hands-on experience in **full-stack web development**, **competitive programming**, and cutting-edge fields like **Artificial Intelligence** and **Generative AI**.
 
 I enjoy building scalable and efficient web applications, solving complex algorithmic challenges, and exploring innovative AI technologies to create impactful solutions.
 
