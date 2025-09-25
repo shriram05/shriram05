@@ -2,9 +2,7 @@
 
 Hi, I’m **Shriram Kumar** 👋 — a motivated Computer Science graduate with hands-on experience in **full-stack web development**, **competitive programming**, and cutting-edge fields like **Artificial Intelligence** and **Generative AI**.
 
-I enjoy building scalable and efficient web applications, solving complex algorithmic challenges, and exploring innovative AI technologies to create impactful solutions.
-
-I thrive in collaborative environments and continuously seek to expand my skill set while staying up-to-date with the latest advancements in technology.
+Always curious and eager to explore emerging technologies, I actively seek opportunities to upskill and innovate. I thrive in collaborative environments, bringing strong communication, adaptability, and teamwork to the table.
 
 ---
 
